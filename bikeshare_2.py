@@ -1,7 +1,6 @@
 """
 Welcome to my code..Muhammed  2022.....
 """
-import numpy as np
 import time
 import pandas as pd
 
