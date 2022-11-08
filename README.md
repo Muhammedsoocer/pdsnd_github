@@ -21,4 +21,19 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 
 
+<<<<<<< HEAD
 End of Readme.
+||||||| cda22c4
+
+END of read me
+
+
+
+>>>>>>> documentation
+=======
+FINNISH of read me
+
+
+
+>>>>>>> documentation
+>>>>>>> 471cd65c9ad19ebb2912592cbb5b29191ac4dfc5
